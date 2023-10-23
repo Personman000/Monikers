@@ -3,7 +3,7 @@ Uses HTML/CSS/JQuery to play Monikers, a simple card game similar to charades. M
 
 Playable at https://personman000.github.io/Monikers/. Rules can be found at http://monikers.yannickweiss.com/rules.pdf.
 
-Original game at https://github.com/ceremonious/Monikers (https://ceremonious.github.io/Monikers/).
+Original repo at https://github.com/ceremonious/
 
 If you like the game, buy it at http://www.monikersgame.com/.
 
